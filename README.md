@@ -1,6 +1,6 @@
 # Track COVID-19 updates using R
 
-This is script written in R which grabs data from European Center for Disease Control (ECDC), process it and finally shows differenct stats as plots.
+This is script written in R which grabs data from European Center for Disease Control (ECDC), process it and finally shows different stats as plots.
 
 ## Install packages
 
