@@ -1,6 +1,9 @@
-## Analyze COVID data
+# Track COVID-19 updates using R
 
-Install packages
+This is script written in R which grabs data from European Center for Disease Control (ECDC), process it and finally shows differenct stats as plots.
+
+## Install packages
+
 ```bash
 # single package
 install.packages("ggplot")
